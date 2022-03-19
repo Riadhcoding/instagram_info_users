@@ -6,7 +6,7 @@
 
 
 ``
-git clone https://github.com/python-life/instagram_info_users/
+git clone https://github.com/python-life/instagram_info_users/.git
 ``
 
 ``
@@ -18,4 +18,4 @@ python instagram_info_V1.py
 ``
 
 
-# اداة للحصول على معلومات مستخدمين انستجرام بدون تسجيل دخول
+# اداة للحصول على معلومات  حول مستخدمين انستجرام بدون تسجيل دخول
